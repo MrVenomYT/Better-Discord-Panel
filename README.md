@@ -94,6 +94,6 @@ See the [open issues](https://github.com/MrVenomYT/Better-Discord-Panel/issues) 
 
 ## License
 
-Copyright © 2021 MrVenom (t3ch91cal.h3r0@gmail.com)
+Copyright © 2021 MrVenom(t3ch91cal.h3r0@gmail.com)
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
